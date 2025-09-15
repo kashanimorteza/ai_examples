@@ -1,0 +1,9 @@
+requests
+fastapi[all]
+pydantic
+uvicorn
+sqlalchemy
+psycopg2-binary
+nats-py
+PyYAML
+ruamel.yaml
