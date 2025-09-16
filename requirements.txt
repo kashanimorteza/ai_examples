@@ -1,3 +1,6 @@
 opencv-python
 numpy
 matplotlib
+tensorflow
+jupyterlab
+notebook
