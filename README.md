@@ -8,10 +8,13 @@
 <!-------------------------- Website -->
 Website
 ```
-https://www.tensorflow.org/
-https://pytorch.org/
-https://keras.io/
-https://jupyter.org/
+Google Colab : https://colab.research.google.com/
+tensorflow   : https://www.tensorflow.org/
+pytorch.     : https://pytorch.org/
+keras.       : https://keras.io/
+tensorflow   : https://jupyter.org/
+stanford     : https://cs.stanford.edu/people/karpathy/convnetjs/index.html
+playground   : https://playground.tensorflow.org/
 ```
 
 <!--------------------------------------------------------------------------------- Source -->
